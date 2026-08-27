@@ -1,0 +1,15 @@
+Kalin Mail - Kullanım Şartları
+Son Güncelleme Tarihi: 2026
+
+Kalin Mail ("Uygulama") masaüstü tabanlı bir e-posta yönetim asistanıdır. Uygulamayı indirerek ve kullanarak aşağıdaki şartları kabul etmiş sayılırsınız:
+
+1. Kullanım Lisansı ve Sorumluluk
+Kalin Mail, açık kaynaklı ve kişisel kullanım odaklı bir araçtır. Yazılım "olduğu gibi" sunulur; geliştirici, uygulamanın kullanımı sırasında oluşabilecek hiçbir veri kaybı, aksaklık veya zarardan sorumlu tutulamaz.
+
+Uygulama üzerinden yapılan tüm e-posta işlemleri (okuma, etiketleme vb.) kullanıcının kendi sorumluluğundadır.
+
+2. Google API Kullanımı
+Uygulama, Google OAuth 2.0 protokolünü ve Gmail API'lerini kullanır. Google kullanıcı verilerine erişim yalnızca kullanıcının açık izniyle gerçekleşir ve veriler hiçbir şekilde harici sunucularda saklanmaz.
+
+3. Değişiklikler
+Bu kullanım şartları, uygulamanın geliştirme sürecine bağlı olarak güncellenebilir. Güncel şartları takip etmek kullanıcıya aittir.
