@@ -1,0 +1,20 @@
+Kalin Mail - Gizlilik Politikası
+Son Güncelleme Tarihi: 2026
+
+Kalin Mail ("Uygulama"), kullanıcıların e-posta gelen kutularını daha verimli yönetmelerine yardımcı olmak amacıyla geliştirilmiş masaüstü tabanlı bir yapay zeka triyaj asistanıdır. Gizliliğinize büyük önem veriyoruz. Bu gizlilik politikası, uygulamamızı kullandığınızda verilerinizin nasıl işlendiğini açıklamaktadır.
+
+1. Toplanan Bilgiler
+Kalin Mail, Gmail hesabınızdaki iletilere (konu, gönderen, önizleme metni) yalnızca sizin izniniz ve OAuth 2.0 kimlik doğrulamanız ile erişir.
+
+2. Verilerin Saklanması ve Güvenliği
+Yerel İşleme: Uygulama tarafından taranan e-posta içerikleri ve verileriniz yalnızca sizin bilgisayarınızda (yerel ortamda) işlenir.
+
+Üçüncü Taraf Sunucular: Kalin Mail, e-posta verilerinizi hiçbir harici sunucuya, veritabanına veya buluta kesinlikle kaydetmez, göndermez veya paylaşmaz.
+
+Kimlik Bilgileri: Google oturum açma bilgileriniz ve token dosyalarınız yalnızca sizin cihazınızda yerel olarak saklanır.
+
+3. Kullanıcı Hakları ve İzinler
+Uygulama, Google API kapsamları aracılığıyla yalnızca gelen kutunuzu okuma izni ister. Bu izni istediğiniz zaman Google Hesap Ayarlarınızdan (Güvenlik > Üçüncü taraf erişimi) tamamen kaldırabilirsiniz.
+
+4. İletişim
+Gizlilik politikamız hakkında herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz.
